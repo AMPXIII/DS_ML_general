@@ -1,0 +1,13 @@
+{
+  "name": "ivaa_validate",
+  "type": "mlafterdrools",
+  "group": "After Drools Validation",
+  "category": "document",
+  "subcategory": "",
+  "UseCase": "Validate documents after drools",
+  "Schedule": "n/a",
+  "Comments": "builds a binary classifier for IVAA",
+  "BusinessApprovalChecklist": {
+    "What Document Types is does this model affect?": "IVAA"
+  }
+}
