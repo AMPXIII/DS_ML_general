@@ -1,0 +1,23 @@
+Multiclass Classification Example + ROC Curves in sklearn
+https://stackoverflow.com/questions/45332410/sklearn-roc-for-multiclass-classification
+
+Plot multinomial and One-vs-Rest Logistic Regression
+https://scikit-learn.org/stable/auto_examples/linear_model/plot_logistic_multinomial.html
+
+Log-loss for multinomial classification
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.log_loss.html
+
+Multiclass Algorithms in sklearn
+Most can do it natively, but sometimes it's more insightful to choose a binary classifier and manually implement a multiclass module
+https://scikit-learn.org/stable/modules/multiclass.html
+
+
+
+
+--------------------------
+
+SimpleImputer sklearn
+https://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html
+
+BASF Colors
+https://www.cdupdate.brandweb.basf.com/portal/basf/en/dt.jsp?setCursor=1_1203348
