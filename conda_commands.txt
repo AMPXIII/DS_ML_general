@@ -1,0 +1,23 @@
+For Mac only:
+
+If conda cannot be executed from terminal (shell, iterm2...):
+
+export PATH=~/anaconda3/bin:$PATH
+
+~/anaconda3/bin OR the specific path of anaconda3/bin for the given Mac
+
+---------------------
+
+On Windows we can always run all commands from Anaconda Prompt
+
+---------------------
+
+Create env with specific python version + pip
+conda create -n env_name python=3.7 pip
+
+Activate env
+conda activate env_name
+
+Install packages
+conda install package_name
+Pip install package_name
